@@ -19,7 +19,7 @@
 
 ###
 
-<p data-importer="text" align="left">Sou apenas uma jovem muito interessada na área da TI. Minha caminhada em TI começou com vários vídeos no YT, cursos livres e muitos erros.</p>
+<p data-importer="text" align="left">Sou apenas uma jovem que gosta de criar coisinhas bonitas..</p>
 
 ###
 
