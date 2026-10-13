@@ -7,7 +7,7 @@
 
 ###
 
-<h1 data-importer="text" align="left">⋆.𐙚 ̊ Oiii, eu sou a Layane Beatriz ۶ৎ</h1>
+<h1 data-importer="text" align="left">⋆.𐙚 ̊ Oiii, eu sou a Beatriz ۶ৎ</h1>
 
 ###
 
